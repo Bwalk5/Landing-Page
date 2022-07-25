@@ -1,0 +1,36 @@
+body {
+
+}
+
+.header {
+    display: flex;
+    font-size: 18px;
+    text-decoration-color: #E5E7EB;
+    background-color: #1f2937;
+}
+
+.subhead{
+    background-color: #1f2937;
+    font-size: 48px;
+    text-decoration-color: #E5E7EB;
+}
+
+.body {
+    background-color: whitesmoke;
+}
+
+.highlight {
+    display: flex;
+}
+
+.subbody{
+    background-color: #E5E7EB;
+}
+
+.prefoot {
+    background-color: whitesmoke;
+}
+
+.footer {
+    background-color: #1f2937;
+}
